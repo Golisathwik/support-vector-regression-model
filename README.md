@@ -86,6 +86,10 @@ $$w = \sum_{i=1}^{n} (\alpha_i - \alpha_i^*) x_i$$
 * **If point is Below:** $(0 - \alpha_i^*)$ is **negative**. It pulls the slope the other way.
 * **If point is Inside:** $(0 - 0)$ is **zero**. It does nothing.
 
+
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/f8d9f6e4-f2df-425f-82b9-284c83eafcbd" />
+
+
 ---
 
 ## 🔄 Handling Curved Data: The Kernel Trick
