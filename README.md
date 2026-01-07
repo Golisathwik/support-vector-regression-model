@@ -123,3 +123,22 @@ These are the settings you must choose carefully to tune the model.
 * **Feature Scaling is Mandatory:** You **MUST** scale your data (using `StandardScaler`) before using SVR. It is very sensitive to large numbers.
 * **Large Datasets:** It is computationally expensive and slow for datasets larger than ~100,000 rows.
 * **Parameter Tuning:** Finding the right $C$, $\epsilon$, and Kernel requires significant trial and error.
+
+---
+
+### output graphs:
+
+
+**Linear Kernel:**
+
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/3a87de60-0c7a-41ec-bdcf-811b3a3a2a42" />
+
+
+**Polynomial Kernel:**
+
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/945e5644-0c3b-4376-a75b-6581d3ca5eef" />
+
+
+**radial Basis function:**
+
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/665f4411-9cb7-46e7-a469-ff3fe635059e" />
